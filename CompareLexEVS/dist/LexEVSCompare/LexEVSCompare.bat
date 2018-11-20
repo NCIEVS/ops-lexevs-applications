@@ -1,0 +1,1 @@
+java -jar ".\lib\CompareLexEVS-1.0-jar-with-dependencies.jar" %*
