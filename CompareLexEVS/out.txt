@@ -1,0 +1,812 @@
+cytomegaloviral disease
+cytomegaloviral disease
+infectious diseases
+malignant neoplasm of lip	Malignant Lip Neoplasm	C7485
+malignant neoplasm of lip	Malignant Lip Neoplasm	C7485
+malignant neoplasm of tongue	Malignant Tongue Neoplasm	C9345
+malignant neoplasm tongue
+malignant neoplasm of dorsal of tongue
+malignant neoplasm of border of tongue
+malignant neoplasm of ventral of tongue
+malignant neoplasm of anterior two-thirds of tongue
+malignant neoplasm of tongue tonsil
+malignant neoplasm of tongue	Malignant Tongue Neoplasm	C9345
+malignant neoplasm of lower gum
+malignant neoplasm of gum	Malignant Gingival Neoplasm	C9317
+malignant neoplasm of mouth	Malignant Oral Cavity Neoplasm	C9314
+malignant neoplasm of mouth	Malignant Oral Cavity Neoplasm	C9314
+malignant neoplasm of mouth	Malignant Oral Cavity Neoplasm	C9314
+malignant neoplasm of hard palate	Malignant Hard Palate Neoplasm	C3528
+malignant neoplasm of soft palate	Malignant Soft Palate Neoplasm	C3529
+malignant neoplasm of uvula
+malignant neoplasm mouth
+malignant neoplasm of buccal mucosa	Malignant Buccal Mucosa Neoplasm	C9320
+malignant neoplasm of retromolar area
+malignant neoplasm of mouth	Malignant Oral Cavity Neoplasm	C9314
+malignant neoplasm of mouth	Malignant Oral Cavity Neoplasm	C9314
+malignant neoplasm of parotid gland	Malignant Parotid Gland Neoplasm	C3525
+malignant neoplasm of submandibular gland	Malignant Submandibular Gland Neoplasm	C3526
+malignant neoplasm of major salivary gland	Malignant Major Salivary Gland Neoplasm	C4762
+malignant neoplasm of tonsil	Malignant Tonsillar Neoplasm	C7404
+malignant neoplasm of palatine tonsil fossa
+malignant neoplasm of palatine tonsil pillar
+malignant neoplasm of tonsil	Malignant Tonsillar Neoplasm	C7404
+malignant neoplasm of tonsil	Malignant Tonsillar Neoplasm	C7404
+malignant neoplasm of oropharynx	Malignant Oropharyngeal Neoplasm	C7398
+malignant neoplasm of epiglottis	Malignant Epiglottis Neoplasm	C4836
+malignant neoplasm of oropharynx	Malignant Oropharyngeal Neoplasm	C7398
+malignant neoplasm of oropharynx	Malignant Oropharyngeal Neoplasm	C7398
+malignant neoplasm of oropharynx	Malignant Oropharyngeal Neoplasm	C7398
+malignant neoplasm of oropharynx	Malignant Oropharyngeal Neoplasm	C7398
+malignant neoplasm of nasopharyngeal
+malignant neoplasm of nasopharyngeal
+malignant neoplasm of nasopharyngeal
+malignant neoplasm of piriform sinus
+malignant neoplasm of aryepiglottis fold
+malignant neoplasm of posterior wall of hypopharyngeal
+malignant neoplasm of hypopharyngeal
+malignant neoplasm of hypopharyngeal
+malignant neoplasm of throat
+malignant neoplasm of lip, mouth and throat
+malignant neoplasm of esophagus	Malignant Esophageal Neoplasm	C7478
+malignant neoplasm of neck part of esophagus
+malignant neoplasm of upper third of esophagus	Malignant Neoplasm of the Upper Third of the Esophagus	C3533
+malignant neoplasm of middle third of the esophagus
+malignant neoplasm of lower third of the esophagus
+malignant neoplasm of esophagus	Malignant Esophageal Neoplasm	C7478
+malignant neoplasm of esophagus	Malignant Esophageal Neoplasm	C7478
+malignant neoplasm of stomach	Malignant Gastric Neoplasm	C9331
+malignant neoplasm of cardia
+malignant neoplasm of body of stomach
+malignant neoplasm of stomach pylorus
+malignant neoplasm of stomach	Malignant Gastric Neoplasm	C9331
+malignant neoplasm of stomach	Malignant Gastric Neoplasm	C9331
+malignant neoplasm of small intestine	Malignant Small Intestinal Neoplasm	C7523
+malignant neoplasm of duodenum	Malignant Duodenal Neoplasm	C9328
+malignant neoplasm of small intestine	Malignant Small Intestinal Neoplasm	C7523
+malignant neoplasm of small intestine	Malignant Small Intestinal Neoplasm	C7523
+malignant neoplasm of colon	Malignant Colon Neoplasm	C9242
+malignant neoplasm of cecum	Malignant Cecum Neoplasm	C9329
+malignant neoplasm of appendix	Malignant Appendix Neoplasm	C9333
+malignant neoplasm of ascending colon
+malignant neoplasm of colon	Malignant Colon Neoplasm	C9242
+malignant neoplasm of colon	Malignant Colon Neoplasm	C9242
+malignant neoplasm of colon	Malignant Colon Neoplasm	C9242
+malignant neoplasm of colon	Malignant Colon Neoplasm	C9242
+malignant neoplasm of sigmoid colon
+malignant neoplasm of colon	Malignant Colon Neoplasm	C9242
+malignant neoplasm of colon	Malignant Colon Neoplasm	C9242
+malignant neoplasm of rectosigmoid junction	Malignant Rectosigmoid Neoplasm	C7420
+malignant neoplasm of rectal
+malignant neoplasm of anus and anus canus
+malignant neoplasm of anus	Malignant Anal Neoplasm	C7379
+malignant neoplasm of anus canus
+malignant neoplasm of rectal, anus and anus canus
+malignant neoplasm of liver and intrahepatic bile ducts
+malignant neoplasm of hepatocellular carcinoma
+malignant neoplasm of intrahepatic bile duct
+malignant neoplasm of hepatoblastoma
+angiosarcoma of liver	Liver Angiosarcoma	C4438
+malignant neoplasm of liver
+malignant neoplasm of liver
+malignant neoplasm of liver
+malignant neoplasm of liver
+malignant neoplasm of gallbladder	Malignant Gallbladder Neoplasm	C7481
+malignant neoplasm biliary tract
+malignant neoplasm of extrahepatic bile duct	Malignant Extrahepatic Bile Duct Neoplasm	C7483
+malignant neoplasm of ampulla of vater	Malignant Ampulla of Vater Neoplasm	C3536
+malignant neoplasm of biliary tract
+malignant neoplasm of pancreas	Malignant Pancreatic Neoplasm	C9005
+malignant neoplasm of head of pancreas
+malignant neoplasm of body of pancreas
+malignant neoplasm of tail of pancreas
+malignant neoplasm of pancreas duct
+malignant neoplasm of endocrine pancreas
+malignant neoplasm of parts of pancreas
+malignant neoplasm of pancreas	Malignant Pancreatic Neoplasm	C9005
+malignant neoplasm of pancreas	Malignant Pancreatic Neoplasm	C9005
+malignant neoplasm of spleen	Malignant Splenic Neoplasm	C3539
+malignant neoplasm of digestive system
+malignant neoplasm of nose cavity and middle ear
+malignant neoplasm of nose cavity
+malignant neoplasm of middle ear	Malignant Middle Ear Neoplasm	C4765
+malignant neoplasm of accessory sinuses
+malignant neoplasm of maxillary sinus	Malignant Maxillary Sinus Neoplasm	C3540
+malignant neoplasm of ethmoidal sinus	Malignant Ethmoid Sinus Neoplasm	C3541
+malignant neoplasm of accessory sinus	Malignant Paranasal Sinus Neoplasm	C7487
+malignant neoplasm of throat
+malignant neoplasm of glottis	Malignant Glottis Neoplasm	C3544
+malignant neoplasm of supraglottis	Malignant Supraglottis Neoplasm	C3545
+malignant neoplasm of subglottis	Malignant Subglottis Neoplasm	C3546
+malignant neoplasm of throat cartilage
+malignant neoplasm of throat
+malignant neoplasm of throat
+malignant neoplasm of trachea	Malignant Tracheal Neoplasm	C9346
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of upper lobe respiratory tract
+malignant neoplasm of upper lobe respiratory tract
+malignant neoplasm of upper lobe respiratory tract
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of lower lobe respiratory tract
+malignant neoplasm of lower lobe respiratory tract
+malignant neoplasm of lower lobe respiratory tract
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of respiratory tract	Malignant Respiratory Tract Neoplasm	C4571
+malignant neoplasm of thymus	Malignant Thymus Neoplasm	C4962
+malignant neoplasm of heart, mediastinum and pleura
+malignant neoplasm of heart	Malignant Cardiac Neoplasm	C3548
+malignant neoplasm of mediastinum	Malignant Mediastinal Neoplasm	C3549
+malignant neoplasm of posterior mediastinum
+malignant neoplasm of mediastinum	Malignant Mediastinal Neoplasm	C3549
+malignant neoplasm of pleura	Malignant Pleural Neoplasm	C3547
+malignant neoplasm of upper respiratory tract
+malignant neoplasm of bone	Malignant Bone Neoplasm	C4016
+malignant neoplasm of bone	Malignant Bone Neoplasm	C4016
+malignant neoplasm of scapula and long bones of upper limb
+malignant neoplasm of scapula and long bones of upper limb
+malignant neoplasm of scapula and long bones of upper limb
+malignant neoplasm of short bones of upper limb
+malignant neoplasm of short bones of upper limb
+malignant neoplasm of long bones of lower limb
+malignant neoplasm of long bones of lower limb
+malignant neoplasm of long bones of lower limb
+malignant neoplasm of long bones of lower limb
+malignant neoplasm of short bones of lower limb
+malignant neoplasm of bones and articular cartilage of limb
+malignant neoplasm of bones and articular cartilage of limb
+malignant neoplasm of bone	Malignant Bone Neoplasm	C4016
+malignant neoplasm of bones of skull and face
+malignant neoplasm of mandible
+malignant neoplasm of vertebra column
+malignant neoplasm of ribs, sternum and clavicle
+malignant neoplasm of bone	Malignant Bone Neoplasm	C4016
+malignant neoplasm of bone	Malignant Bone Neoplasm	C4016
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+melanoma	Melanoma	C3224	NCI CTEP SDC Melanoma Sub-Category Terminology	C103113	Melanoma Pathway	C91477
+malignant neoplasms of skin
+malignant neoplasm of skin of lip
+squamous cell carcinoma of skin of lip
+malignant neoplasm of skin canthus
+basal cell carcinoma of skin	Skin Basal Cell Carcinoma	C2921
+basal cell carcinoma of skin	Skin Basal Cell Carcinoma	C2921
+basal cell carcinoma of skin	Skin Basal Cell Carcinoma	C2921
+malignant neoplasm of skin of ear and auricular canus
+malignant neoplasm of skin face
+malignant neoplasm of skin of face
+basal cell carcinoma of skin	Skin Basal Cell Carcinoma	C2921
+basal cell carcinoma of skin parts of face
+squamous cell carcinoma of skin of face
+squamous cell carcinoma of skin parts of face
+malignant neoplasm of skin of scalp and neck
+squamous cell carcinoma of skin of scalp and neck
+malignant neoplasm of skin of trunk
+basal cell carcinoma of skin part of trunk
+malignant neoplasm of skin of upper limb shoulder
+malignant neoplasm of skin of lower limb hip
+squamous cell carcinomaofskin
+malignant neoplasm of skin	Malignant Skin Neoplasm	C2920
+malignant neoplasm of malignant neoplasm of skin
+un malignant neoplasm of skin
+basal cell carcinoma of skin	Skin Basal Cell Carcinoma	C2921
+squamous cell carcinoma of skin	Skin Squamous Cell Carcinoma	C4819
+malignant neoplasm of skin	Malignant Skin Neoplasm	C2920
+mesothelioma	Mesothelioma	C3234	NCI CTEP SDC Mesothelioma Sub-Category Terminology	C103089
+mesothelioma of pleura	Pleural Mesothelioma	C9351
+mesothelioma of peritoneal
+mesothelioma	Mesothelioma	C3234	NCI CTEP SDC Mesothelioma Sub-Category Terminology	C103089
+mesothelioma	Mesothelioma	C3234	NCI CTEP SDC Mesothelioma Sub-Category Terminology	C103089
+kaposi sarcoma	Kaposi Sarcoma	C9087
+kaposi sarcoma	Kaposi Sarcoma	C9087
+kaposi sarcoma	Kaposi Sarcoma	C9087
+malignant neoplasm of peripheral nerves and autonomic nervous system
+malignant neoplasm of peripheral nerves of head, face and neck
+malignant neoplasm of peripheral nerves and autonomic nervous system
+malignant neoplasm of retroperitoneal and peritoneal
+malignant neoplasm of retroperitoneal
+malignant neoplasm of peritoneal
+malignant neoplasm of peritoneal
+malignant neoplasm soft tissue
+malignant neoplasm of soft tissue of head, face and neck
+malignant neoplasm of soft tissue of upper limb shoulder
+malignant neoplasm of soft tissue of upper limb shoulder
+malignant neoplasm of soft tissue of upper limb shoulder
+malignant neoplasm of soft tissue of upper limb shoulder
+malignant neoplasm of soft tissue of lower limb hip
+malignant neoplasm of soft tissue of lower limb hip
+malignant neoplasm of soft tissue of lower limb hip
+malignant neoplasm of soft tissue of lower limb hip
+malignant neoplasm of soft tissue of chest
+malignant neoplasm of soft tissue of abdomen
+malignant neoplasm of soft tissue of pelvis
+malignant neoplasm of soft tissue of trunk
+malignant neoplasm of soft tissue	Malignant Soft Tissue Neoplasm	C4867
+malignant neoplasm of soft tissue	Malignant Soft Tissue Neoplasm	C4867
+malignant neoplasm of breast	Malignant Breast Neoplasm	C9335
+malignant neoplasm of nipple and areola
+malignant neoplasm of nipple and areola female breast
+malignant neoplasm of central portion of breast
+malignant neoplasm of central portion of female breast
+malignant neoplasm of central portion of female breast
+malignant neoplasm of upper-inner quadrant of breast
+malignant neoplasm of upper-inner quadrant of female breast
+malignant neoplasm of upper-inner quadrant of female breast
+malignant neoplasm of upper-inner quadrant of female breast
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+female breast carcinoma	Female Breast Carcinoma	C2918
+malignant neoplasm ofbreast
+malignant neoplasm of female breast
+malignant neoplasm of female breast
+malignant neoplasm of female breast
+malignant neoplasm of breast	Malignant Breast Neoplasm	C9335
+malignant neoplasm of breast, female
+malignant neoplasm of female breast
+malignant neoplasm of female breast
+malignant neoplasm of female breast
+malignant neoplasm of male breast
+malignant neoplasm of vulva	Malignant Vulvar Neoplasm	C7502
+malignant neoplasm of clitoris	Malignant Clitoral Neoplasm	C3557
+malignant neoplasm of vulva	Malignant Vulvar Neoplasm	C7502
+malignant neoplasm of vagina	Malignant Vaginal Neoplasm	C7410
+malignant neoplasm of uterus	Malignant Uterine Neoplasm	C3552
+endoneck carcinoma
+malignant neoplasm of exocervix	Malignant Exocervical Neoplasm	C3554
+malignant neoplasmofuterine cervix
+malignant neoplasm of uterus	Malignant Uterine Neoplasm	C3552
+malignant neoplasm of uterus	Malignant Uterine Neoplasm	C3552
+malignant neoplasm of endometrium
+malignant neoplasm of uterus	Malignant Uterine Neoplasm	C3552
+malignant neoplasm of uterus	Malignant Uterine Neoplasm	C3552
+malignant neoplasm of ovary	Malignant Ovarian Neoplasm	C7431
+malignant neoplasm of ovary	Malignant Ovarian Neoplasm	C7431
+malignant neoplasm of ovary	Malignant Ovarian Neoplasm	C7431
+malignant neoplasm of ovary	Malignant Ovarian Neoplasm	C7431
+malignant neoplasm and female genital organs
+malignant neoplasm of fallopian tube	Malignant Fallopian Tube Neoplasm	C7480
+malignant neoplasm of fallopian tube	Malignant Fallopian Tube Neoplasm	C7480
+malignant neoplasm of fallopian tube	Malignant Fallopian Tube Neoplasm	C7480
+malignant neoplasm of uterine adnexa
+malignant neoplasm of female genital organs
+malignant neoplasm of female genital organ
+malignant neoplasm of placenta	Malignant Placental Neoplasm	C3555
+malignant neoplasm of penis	Malignant Penile Neoplasm	C7547
+malignant neoplasm of prostate	Malignant Prostate Neoplasm	C7378
+malignant neoplasm of testis	Malignant Testicular Neoplasm	C7251
+malignant testicular neoplasm	Malignant Testicular Neoplasm	C7251
+malignant neoplasm of testis	Malignant Testicular Neoplasm	C7251
+malignant neoplasm of testis	Malignant Testicular Neoplasm	C7251
+malignant neoplasm of testis	Malignant Testicular Neoplasm	C7251
+malignant neoplasm of testis	Malignant Testicular Neoplasm	C7251
+malignant spermatic cord neoplasm	Malignant Spermatic Cord Neoplasm	C3559
+malignant neoplasm of kidney, except kidney pelvis
+malignant neoplasm of kidney, except kidney pelvis
+malignant neoplasm of kidney, except kidney pelvis
+malignant neoplasm of kidney, except kidney pelvis
+malignant neoplasm of kidney pelvis
+malignant neoplasm of kidney pelvis
+malignant neoplasm of kidney pelvis
+malignant neoplasm of kidney pelvis
+malignant neoplasm of ureter	Malignant Ureter Neoplasm	C7543
+malignant neoplasm of bladder	Malignant Bladder Neoplasm	C9334
+malignant neoplasm of dome of bladder
+malignant neoplasm of posterior wall of bladder
+malignant neoplasm of bladder	Malignant Bladder Neoplasm	C9334
+malignant neoplasm of bladder	Malignant Bladder Neoplasm	C9334
+malignant neoplasm of urethra	Malignant Urethral Neoplasm	C7507
+malignant neoplasm of urinary organ
+malignant neoplasm of eye and adnexa
+malignant neoplasm of retina	Malignant Retinal Neoplasm	C3216
+malignant neoplasm of retina	Malignant Retinal Neoplasm	C3216
+malignant neoplasm of retina	Malignant Retinal Neoplasm	C3216
+malignant neoplasm of retina	Malignant Retinal Neoplasm	C3216
+malignant neoplasm of choroid	Malignant Choroid Neoplasm	C3566
+malignant neoplasm of orbital
+malignant neoplasm of orbital
+malignant neoplasm of orbital
+malignant neoplasm of orbital
+malignant neoplasm of cerebrum meninges
+malignant neoplasm of meninges	Malignant Neoplasm of the Meninges	C4628
+malignant neoplasm of brain	Malignant Brain Neoplasm	C3568
+malignant neoplasm of cerebrum, except lobes and ventricles
+malignant cerebrum neoplasm
+malignant cerebrum neoplasm
+malignant cerebrum neoplasm
+malignant cerebrum neoplasm
+malignant neoplasm of cerebrum ventricle
+malignant neoplasm of cerebellum	Malignant Cerebellar Neoplasm	C3569
+malignant neoplasm of brain stem	Malignant Brain Stem Neoplasm	C3570
+malignant neoplasm of brain	Malignant Brain Neoplasm	C3568
+malignant neoplasm of brain	Malignant Brain Neoplasm	C3568
+malignant neoplasm of spine, skull nerves parts of central nervous system
+malignant neoplasm of spine
+malignant neoplasm of optic nerve
+malignant neoplasm of optic nerve
+malignant neoplasm of optic nerve
+malignant neoplasm skull nerves
+malignant neoplasm of central nervous system	Malignant Central Nervous System Neoplasm	C4627
+malignant neoplasm of thyroid gland	Malignant Thyroid Gland Neoplasm	C7510
+malignant neoplasm of adrenal gland	Malignant Adrenal Gland Neoplasm	C9338
+malignant neoplasm of cortex of adrenal gland
+malignant neoplasm of medulla of adrenal gland
+malignant neoplasm of adrenal gland	Malignant Adrenal Gland Neoplasm	C9338
+malignant neoplasm of adrenal gland	Malignant Adrenal Gland Neoplasm	C9338
+malignant neoplasm of adrenal gland	Malignant Adrenal Gland Neoplasm	C9338
+malignant neoplasm of adrenal gland	Malignant Adrenal Gland Neoplasm	C9338
+malignant neoplasm endocrine glands and related structures
+malignant neoplasm of parathyroid gland	Malignant Parathyroid Gland Neoplasm	C9322
+malignant neoplasm of pituitary gland	Malignant Pituitary Gland Neoplasm	C4769
+malignant neoplasm of craniothroat duct
+malignant neoplasm of pineal gland	Malignant Pineal Region Neoplasm	C3573
+malignant paraganglioma	Malignant Paraganglioma	C8559
+malignant neoplasm and ill-defined
+malignant neoplasm and ill-defined: head, face and neck
+malignant neoplasm and ill-defined: chest
+malignant neoplasm and ill-defined: abdomen
+malignant neoplasm and ill-defined: pelvis
+malignant neoplasm and ill-defined: lower limb
+malignant neoplasm and ill-defined: and ill-defined
+metastatic malignant neoplasm of lymph nodes
+metastatic malignant neoplasm of lymph nodes of head, face and neck
+metastatic malignant neoplasm of intrathoracic lymph nodes
+metastatic malignant neoplasm of intra-abdomen lymph nodes
+metastatic malignant neoplasm of lymph node
+metastatic malignant neoplasm of lung
+metastatic malignant neoplasm of lung
+metastatic malignant neoplasm of lung
+metastatic malignant neoplasm of lung
+metastatic malignant neoplasm of mediastinum
+metastatic malignant neoplasm of retroperitoneal and peritoneal
+metastatic malignant neoplasm of liver and intrahepatic bile duct
+metastatic malignant neoplasm and digestive organs
+metastatic malignant neoplasm digestive organs
+metastatic malignant neoplasm	Metastatic Malignant Neoplasm	C36263
+metastatic malignant neoplasm of brain and cerebrum meninges
+metastatic malignant neoplasm of brain
+metastatic malignant neoplasm parts of nervous system
+metastatic malignant neoplasm of bone
+metastatic malignant neoplasm of adrenal gland
+metastatic malignant neoplasm	Metastatic Malignant Neoplasm	C36263
+metastatic malignant neoplasm of breast
+metastatic malignant neoplasm	Metastatic Malignant Neoplasm	C36263
+metastatic digestive system neuroendocrine tumor g1	Metastatic Digestive System Neuroendocrine Tumor G1	C115245
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+atypical carcinoid tumor	Atypical Carcinoid Tumor	C72074
+metastatic digestive system neuroendocrine tumor g1	Metastatic Digestive System Neuroendocrine Tumor G1	C115245
+metastatic digestive system neuroendocrine tumor g1	Metastatic Digestive System Neuroendocrine Tumor G1	C115245
+metastatic carcinoid neoplasms
+metastatic carcinoid neoplasms of liver
+metastatic digestive system neuroendocrine tumor g1	Metastatic Digestive System Neuroendocrine Tumor G1	C115245
+malignant neoplasm	Malignant Neoplasm	C9305	Childhood Malignant Neoplasm	C4005
+malignant neoplasm	Malignant Neoplasm	C9305	Childhood Malignant Neoplasm	C4005
+metastatic malignant neoplasm	Metastatic Malignant Neoplasm	C36263
+malignant neoplasm	Malignant Neoplasm	C9305	Childhood Malignant Neoplasm	C4005
+hodgkin lymphoma	Hodgkin Lymphoma	C9357	Childhood Hodgkin Lymphoma	C7714	Adult Hodgkin Lymphoma	C7702	NCI CTEP SDC Hodgkin Lymphoma Sub-Category Terminology	C103135
+nodular lymphocyte predominant hodgkin lymphoma	Nodular Lymphocyte Predominant Hodgkin Lymphoma	C7258	Childhood Nodular Lymphocyte Predominant Hodgkin Lymphoma	C8060	Adult Nodular Lymphocyte Predominant Hodgkin Lymphoma	C7942
+nodular lymphocyte predominant hodgkin lymphoma	Nodular Lymphocyte Predominant Hodgkin Lymphoma	C7258	Childhood Nodular Lymphocyte Predominant Hodgkin Lymphoma	C8060	Adult Nodular Lymphocyte Predominant Hodgkin Lymphoma	C7942
+nodular lymphocyte predominant hodgkin lymphoma, lymph nodes of head, face, and neck
+nodular lymphocyte predominant hodgkin lymphoma, lymph nodes of axilla and upper limb
+nodular lymphocyte predominant hodgkin lymphoma, lymph nodes of inguinal region and lower limb
+nodular lymphocyte predominant hodgkin lymphoma, lymph nodes
+nodular sclerosis classical hodgkin lymphoma	Nodular Sclerosis Classic Hodgkin Lymphoma	C3518	Childhood Nodular Sclerosis Classic Hodgkin Lymphoma	C8062	Adult Nodular Sclerosis Classic Hodgkin Lymphoma	C9126
+nodular sclerosis classical hodgkin lymphoma	Nodular Sclerosis Classic Hodgkin Lymphoma	C3518	Childhood Nodular Sclerosis Classic Hodgkin Lymphoma	C8062	Adult Nodular Sclerosis Classic Hodgkin Lymphoma	C9126
+nodular sclerosis classical hodgkin lymphoma, lymph nodes of head, face, and neck
+nodular sclerosis classical hodgkin lymphoma, intrathoracic lymph nodes
+nodular sclerosis classical hodgkin lymphoma, lymph nodes of inguinal region and lower limb
+nodular sclerosis classical hodgkin lymphoma, lymph nodes
+mixed cellularity classical hodgkin lymphoma	Mixed Cellularity Classic Hodgkin Lymphoma	C3517	Childhood Mixed Cellularity Classic Hodgkin Lymphoma	C8063	Adult Mixed Cellularity Classic Hodgkin Lymphoma	C9127
+mixed cellularity classical hodgkin lymphoma	Mixed Cellularity Classic Hodgkin Lymphoma	C3517	Childhood Mixed Cellularity Classic Hodgkin Lymphoma	C8063	Adult Mixed Cellularity Classic Hodgkin Lymphoma	C9127
+mixed cellularity classical hodgkin lymphoma, lymph nodes of head, face, and neck
+mixed cellularity classical hodgkin lymphoma, lymph nodes
+mixed cellularity classical hodgkin lymphoma, extranodal and solid organ
+lymphocyte depleted classical hodgkin lymphoma	Lymphocyte-Depleted Classic Hodgkin Lymphoma	C9283	Childhood Lymphocyte-Depleted Classic Hodgkin Lymphoma	C8061
+lymphocyte depleted classical hodgkin lymphoma	Lymphocyte-Depleted Classic Hodgkin Lymphoma	C9283	Childhood Lymphocyte-Depleted Classic Hodgkin Lymphoma	C8061
+lymphocyte-rich classical hodgkin lymphoma	Lymphocyte-Rich Classic Hodgkin Lymphoma	C6913	Childhood Lymphocyte-Rich Classic Hodgkin Lymphoma	C7054	Adult Lymphocyte-Rich Classic Hodgkin Lymphoma	C7223
+lymphocyte-rich classical hodgkin lymphoma, lymph nodes of head, face, and neck
+lymphocyte-rich classical hodgkin lymphoma, lymph nodes
+classical hodgkin lymphoma	Classic Hodgkin Lymphoma	C7164	Adult Classic Hodgkin Lymphoma	C69138
+classical hodgkin lymphoma, lymph nodes of head, face, and neck
+classical hodgkin lymphoma, lymph nodes
+hodgkin lymphoma	Hodgkin Lymphoma	C9357	Childhood Hodgkin Lymphoma	C7714	Adult Hodgkin Lymphoma	C7702	NCI CTEP SDC Hodgkin Lymphoma Sub-Category Terminology	C103135
+hodgkin lymphoma	Hodgkin Lymphoma	C9357	Childhood Hodgkin Lymphoma	C7714	Adult Hodgkin Lymphoma	C7702	NCI CTEP SDC Hodgkin Lymphoma Sub-Category Terminology	C103135
+hodgkin lymphoma, lymph nodes of head, face, and neck
+hodgkin lymphoma, lymph nodes
+follicular lymphoma	Follicular Lymphoma	C3209
+follicular lymphoma grade i
+follicular lymphoma grade ii, intrathoracic lymph nodes
+follicular lymphoma grade ii, lymph nodes
+follicular lymphoma grade iii
+follicular lymphoma grade iiia
+follicular lymphoma grade iiia, lymph nodes
+follicular lymphoma	Follicular Lymphoma	C3209
+follicular lymphoma	Follicular Lymphoma	C3209
+follicular lymphoma	Follicular Lymphoma	C3209
+non-follicular lymphoma
+small cell b-cell lymphoma
+small cell b-cell lymphoma
+mantle cell lymphoma	Mantle Cell Lymphoma	C4337
+mantle cell lymphoma	Mantle Cell Lymphoma	C4337
+mantle cell lymphoma, lymph nodes
+mantle cell lymphoma, extranodal and solid organ
+diffuse large b-cell lymphoma	Diffuse Large B-Cell Lymphoma	C8851	Childhood Diffuse Large B-Cell Lymphoma	C7616	Adult Diffuse Large B-Cell Lymphoma	C7615
+diffuse large b-cell lymphoma	Diffuse Large B-Cell Lymphoma	C8851	Childhood Diffuse Large B-Cell Lymphoma	C7616	Adult Diffuse Large B-Cell Lymphoma	C7615
+diffuse large b-cell lymphoma, lymph nodes of head, face, and neck
+diffuse large b-cell lymphoma, intrathoracic lymph nodes
+diffuse large b-cell lymphoma, intra-abdomen lymph nodes
+diffuse large b-cell lymphoma, lymph nodes
+diffuse large b-cell lymphoma, extranodal and solid organ
+lymphoblastic (diffuse) lymphoma
+lymphoblastic (diffuse) lymphoma
+lymphoblastic (diffuse) lymphoma, lymph nodes of head, face, and neck
+lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes
+lymphoblastic (diffuse) lymphoma, intrapelvis lymph nodes
+lymphoblastic (diffuse) lymphoma, lymph nodes
+lymphoblastic (diffuse) lymphoma, extranodal and solid organ
+burkitt lymphoma	Burkitt Lymphoma	C2912	Childhood Burkitt Lymphoma	C9095	Adult Burkitt Lymphoma	C9062
+burkitt lymphoma	Burkitt Lymphoma	C2912	Childhood Burkitt Lymphoma	C9095	Adult Burkitt Lymphoma	C9062
+burkitt lymphoma, lymph nodes of head, face, and neck
+burkitt lymphoma, intra-abdomen lymph nodes
+burkitt lymphoma, lymph nodes
+burkitt lymphoma, extranodal and solid organ
+non-follicular lymphoma, extranodal and solid organ
+mature t/nk-cell lymphomas
+mycosis fungoides	Mycosis Fungoides	C3246
+mycosis fungoides	Mycosis Fungoides	C3246
+s?zary disease
+sézary disease
+peripheral t-cell lymphoma	Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma	C3468
+peripheral t-cell lymphoma	Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma	C3468
+peripheral t-cell lymphoma	Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma	C3468
+peripheral t-cell lymphoma	Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma	C3468
+anaplastic large cell lymphoma, alk-positive	Anaplastic Large Cell Lymphoma, ALK-Positive	C37193
+anaplastic large cell lymphoma, alk-positive, lymph nodes of head, face, and neck
+anaplastic large cell lymphoma, alk-positive, lymph nodes of axilla and upper limb
+anaplastic large cell lymphoma, alk-positive, lymph nodes
+anaplastic large cell lymphoma, alk-positive, extranodal and solid organ
+anaplastic large cell lymphoma, alk-negative	Anaplastic Large Cell Lymphoma, ALK-Negative	C37194
+anaplastic large cell lymphoma, alk-negative, intrathoracic lymph nodes
+mature t/nk-cell lymphoma
+skin t-cell lymphoma, intra-abdomen lymph nodes
+non-hodgkin lymphoma	Non-Hodgkin Lymphoma	C3211	Childhood Non-Hodgkin Lymphoma	C7706	Adult Non-Hodgkin Lymphoma	C7704	NCI CTEP SDC Non-Hodgkin Lymphoma Sub-Category Terminology	C103133
+b-cell lymphoma	B-Cell Non-Hodgkin Lymphoma	C3457
+b-cell lymphoma, intrapelvis lymph nodes
+b-cell lymphoma, spleen
+b-cell lymphoma, lymph nodes
+b-cell lymphoma, extranodal and solid organ
+mediastinal (thymus) large b-cell lymphoma
+mediastinal (thymus) large b-cell lymphoma, intrathoracic lymph nodes
+non-hodgkin lymphoma	Non-Hodgkin Lymphoma	C3211	Childhood Non-Hodgkin Lymphoma	C7706	Adult Non-Hodgkin Lymphoma	C7704	NCI CTEP SDC Non-Hodgkin Lymphoma Sub-Category Terminology	C103133
+non-hodgkin lymphoma	Non-Hodgkin Lymphoma	C3211	Childhood Non-Hodgkin Lymphoma	C7706	Adult Non-Hodgkin Lymphoma	C7704	NCI CTEP SDC Non-Hodgkin Lymphoma Sub-Category Terminology	C103133
+non-hodgkin lymphoma, lymph nodes of head, face, and neck
+non-hodgkin lymphoma, intrathoracic lymph nodes
+non-hodgkin lymphoma, intra-abdomen lymph nodes
+non-hodgkin lymphoma, lymph nodes of inguinal region and lower limb
+non-hodgkin lymphoma, lymph nodes
+non-hodgkin lymphoma, extranodal and solid organ
+non-hodgkin lymphoma	Non-Hodgkin Lymphoma	C3211	Childhood Non-Hodgkin Lymphoma	C7706	Adult Non-Hodgkin Lymphoma	C7704	NCI CTEP SDC Non-Hodgkin Lymphoma Sub-Category Terminology	C103133
+non-hodgkin lymphoma	Non-Hodgkin Lymphoma	C3211	Childhood Non-Hodgkin Lymphoma	C7706	Adult Non-Hodgkin Lymphoma	C7704	NCI CTEP SDC Non-Hodgkin Lymphoma Sub-Category Terminology	C103133
+non-hodgkin lymphoma, lymph nodes of head, face, and neck
+angioimmunoblastic t-cell lymphoma	Angioimmunoblastic T-Cell Lymphoma	C7528
+multiple myeloma and malignant plasma cell neoplasms
+multiple myeloma	Plasma Cell Myeloma	C3242
+multiple myeloma not having achieved remission
+multiple myeloma in remission
+lymphoid leukemia	Lymphoid Leukemia	C7539
+acute lymphoblastic leukemia [all]
+acute lymphoblastic leukemia not having achieved remission
+acute lymphoblastic leukemia, in remission
+acute lymphoblastic leukemia, in remission
+chronic lymphocytic leukemia of b-cell type
+chronic lymphocytic leukemia of b-cell type not having achieved remission
+chronic lymphocytic leukemia of b-cell type in remission
+chronic lymphocytic leukemia of b-cell type in remission
+prolymphocytic leukemia of t-cell type, in remission
+lymphoid leukemia	Lymphoid Leukemia	C7539
+lymphoid leukemia not having achieved remission
+mature b-cell leukemia burkitt-type not having achieved remission
+lymphoid leukemia not having achieved remission
+myeloid leukemia	Myeloid Leukemia	C3172
+acute myeloblastic leukemia [aml]
+acute myeloblastic leukemia, not having achieved remission
+acute myeloblastic leukemia, in remission
+acute myeloblastic leukemia, in remission
+chronic myeloid leukemia [cml], bcr/abl-positive
+chronic myeloid leukemia, bcr/abl-positive, not having achieved remission
+chronic myeloid leukemia, bcr/abl-positive, in remission
+myeloid sarcoma	Myeloid Sarcoma	C3520
+myeloid sarcoma, not having achieved remission
+acute promyelocytic leukemia [pml]
+acute myelomonocytic leukemia	Acute Myelomonocytic Leukemia	C7463	Childhood Acute Myelomonocytic Leukemia	C7970	Adult Acute Myelomonocytic Leukemia	C7962
+acute myelomonocytic leukemia, not having achieved remission
+acute myelomonocytic leukemia, in remission
+acute myeloid leukemia with 11q23-abnormality
+acute myeloid leukemia with 11q23-abnormality not having achieved remission
+acute myeloid leukemia with 11q23-abnormality in remission
+myeloid leukemia	Myeloid Leukemia	C3172
+myeloid leukemia	Myeloid Leukemia	C3172
+acute myeloid leukemia with multilineage dysplasia, not having achieved remission
+acute myeloid leukemia with multilineage dysplasia, in remission
+acute myeloid leukemia with multilineage dysplasia, in remission
+myeloid leukemia	Myeloid Leukemia	C3172
+myeloid leukemia, in remission
+monocytic leukemia	Acute Monocytic Leukemia	C4861
+acute monoblastic/monocytic leukemia
+acute monoblastic/monocytic leukemia, not having achieved remission
+acute monoblastic/monocytic leukemia, in remission
+acute monoblastic/monocytic leukemia, in remission
+chronic myelomonocytic leukemia	Chronic Myelomonocytic Leukemia	C3178	Juvenile Myelomonocytic Leukemia	C9233
+chronic myelomonocytic leukemia not having achieved remission
+juvenile myelomonocytic leukemia, not having achieved remission
+monocytic leukemia	Acute Monocytic Leukemia	C4861
+monocytic leukemia, not having achieved remission
+leukemias of cell type
+acute erythroid leukemia	Acute Erythroid Leukemia	C8923	Childhood Acute Erythroid Leukemia	C9164	Adult Acute Erythroid Leukemia	C9153
+acute erythroid leukemia, not having achieved remission
+acute erythroid leukemia, in remission
+acute megakaryoblastic leukemia	Acute Megakaryoblastic Leukemia	C3170	Childhood Acute Megakaryoblastic Leukemia	C7972	Adult Acute Megakaryoblastic Leukemia	C7965
+acute megakaryoblastic leukemia not having achieved remission
+acute megakaryoblastic leukemia, in remission
+myelodysplastic and myeloproliferative disease
+leukemias	Leukemia	C3161
+leukemias	Leukemia	C3161
+leukemias not having achieved remission
+leukemia of cell type
+acute leukemia of cell type
+acute leukemia of cell type not having achieved remission
+acute leukemia of cell type, in remission
+acute leukemia of cell type, in remission
+chronic leukemia of cell type not having achieved remission
+leukemia	Leukemia	C3161	Childhood Leukemia	C4989
+leukemia not having achieved remission
+malignant neoplasms of lymphoid, hematopoietic and related tissue
+multifocal and unisystemic langerhans-cell histiocytosis
+malignant neoplasm of lymphoid, hematopoietic and related tissue
+malignant neoplasms of independent (primary) multiple
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+melanoma in situ of scalp and neck
+melanoma in situ part of trunk
+melanoma in situ	Stage 0 Cutaneous Melanoma AJCC v6 and v7	C8423	Melanoma In Situ	C4224
+melanoma in situ	Stage 0 Cutaneous Melanoma AJCC v6 and v7	C8423	Melanoma In Situ	C4224
+carcinoma in situ of breast	Stage 0 Breast Cancer AJCC v6 and v7	C3641
+intraductal carcinoma in situ of breast
+intraductal carcinoma in situ of breast
+intraductal carcinoma in situ of breast
+carcinoma in situ of breast	Stage 0 Breast Cancer AJCC v6 and v7	C3641
+carcinoma in situ of breast	Stage 0 Breast Cancer AJCC v6 and v7	C3641
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+carcinoma in situ	Carcinoma In Situ	C2917
+benign neoplasm of endocrine pancreas
+benign neoplasm of respiratory tract	Benign Respiratory Tract Neoplasm	C8531
+benign neoplasm of respiratory tract	Benign Respiratory Tract Neoplasm	C8531
+benign neoplasm of respiratory tract	Benign Respiratory Tract Neoplasm	C8531
+benign neoplasm of thymus	Benign Thymus Neoplasm	C4458
+benign neoplasm of long bones of lower limb
+benign neoplasm of bone	Benign Bone Neoplasm	C4880
+benign lipomatous neoplasm	Benign Lipomatous Neoplasm	C4502
+hemangioma	Hemangioma	C3085
+benign neoplasm of retroperitoneal
+benign neoplasm of ovary	Benign Ovarian Neoplasm	C2895
+benign neoplasm of female genital organs
+benign neoplasm of orbital
+benign neoplasm of cerebrum meninges
+benign neoplasm of meninges	Benign Neoplasm of the Meninges	C4957
+benign neoplasm of brain, supratentorial
+benign neoplasm of skull nerves
+benign neoplasm of adrenal gland	Benign Adrenal Gland Neoplasm	C3629
+benign neoplasm of adrenal gland	Benign Adrenal Gland Neoplasm	C3629
+benign neoplasm of pituitary gland	Benign Pituitary Gland Neoplasm	C4782
+benign neoplasm	Benign Neoplasm	C3677
+neoplasm of uncertain or unknown behavior: liver, gallbladder and bile ducts
+neoplasm digestive organs
+neoplasm of uncertain or unknown behavior: digestive organ
+neoplasm of uncertain or unknown behavior: trachearespiratory tract
+neoplasm of uncertain or unknown behavior: pleura
+neoplasm of uncertain or unknown behavior: ovary
+benign carcinoid neoplasm
+benign carcinoid neoplasm of the respiratory tract
+metastatic digestive system neuroendocrine tumor g1	Metastatic Digestive System Neuroendocrine Tumor G1	C115245
+neoplasm of uncertain or unknown behavior: brain, supratentorial
+neoplasm of uncertain or unknown behavior: brain, infratentorial
+neoplasm of uncertain or unknown behavior: brain
+neoplasm of uncertain or unknown behavior: thyroid gland
+neoplasm of uncertain or unknown behavior: pituitary gland
+neoplasm of uncertain or unknown behavior: craniothroat duct
+myelodysplastic syndromes	Myelodysplastic Syndrome	C3247
+refractory anemia with excess of blasts
+refractory anemia with excess of blasts
+refractory anemia with excess of blasts 2
+refractory anemia	Refractory Anemia	C2872
+myelodysplastic syndromes	Myelodysplastic Syndrome	C3247
+myelodysplastic syndrome	Myelodysplastic Syndrome	C3247	Childhood Myelodysplastic Syndrome	C68744	Adult Myelodysplastic Syndrome	C115153	Myelodysplastic Syndrome, CTCAE	C143690	NCI CTEP SDC Myelodysplastic Syndrome Sub-Category Terminology	C103128
+myelodysplastic syndrome with isolated del(5q) chromosomal abnormality
+neoplasms of uncertain or unknown behavior of lymphoid, hematopoietic and related tissue
+chronic myeloproliferative disease	Myeloproliferative Neoplasm	C4345	NCI CTEP SDC Chronic Myeloproliferative Disease Sub-Category Terminology	C103126
+essential (hemorrhagic) thrombocythemia
+neoplasm of uncertain or unknown behavior and
+neoplasm of uncertain or unknown behavior: bone
+neoplasm of uncertain or unknown behavior: connective soft tissue
+neoplasm of uncertain or unknown behavior: skin
+neoplasm of behavior of digestive system
+neoplasm of behavior of respiratory tract
+neoplasm of behavior of brain
+neoplasm of behavior
+neoplasm of behavior
+sickle-cell anemia without crisis
+acquired hemolytic anemia	Acquired Hemolytic Anemia	C34377
+aplastic anemias
+idiopathic aplastic anemia	Idiopathic Aplastic Anemia	C61230
+aplastic anemia	Aplastic Anemia	C2870
+agranulocytosis	Agranulocytosis	C107102
+functional disorders of polymorphonuclear neutrophils
+diseases of blood and blood-forming organs
+myelofibrosis	Myelofibrosis Assessment	C154803	Myelofibrosis	C3248
+disease of blood and blood-forming organs
+haemophagocytic lymphohistiocytosis
+combined immunodeficiencies
+combined immunodeficiency
+acute graft-versus-host disease
+mental and behavioral disorders due to use of tobacco: dependence syndrome
+nicotine dependence, chewing tobacco, with withdrawal
+sleep disorder	Sleep Disorder	C3376
+disorders of brain
+disorder of brain
+cicatricial ectropion of eye eyelid
+angina pectoris	Angina	C51221
+vasomotor and allergic rhinitis
+diseases of throat
+diseases of throat
+esophagitis	Esophagitis	C9224	Esophagitis, CTCAE	C57797
+gastro-esophageal reflux disease with esophagitis
+barrett esophagus	Barrett Esophagus	C2891
+barrett's esophagus without dysplasia
+parastomal hernia with obstruction, without gangrene
+crohn disease	Crohn Disease	C2965
+blood vessel disorders of intestine
+alcoholic liver disease	Alcoholic Liver Disease	C34783
+alcoholic cirrhosis of liver without ascites
+liver disease	Liver and Intrahepatic Bile Duct Disorder	C3196
+disease of pancreas
+intestine, intestines malabsorption
+sunburn	Sunburn	C3395
+vitiligo	Vitiligo	C26915
+soft tissue disorders related to use, overuse and pressure upper arms
+solitary bone cyst humerus
+paget disease of bone	Bone Paget Disease	C3292
+acquired deformities of musculoskeletal system and connective tissue
+disorders of kidney and ureter
+bladder disorder	Bladder Disorder	C2900
+benign mammary dysplasia
+ovary cysts
+noninflammatory disorder of ovary, fallopian tube and broad ligament
+noninflammatory disorders of uterine cervix
+un condition associated with female genital organs and menstrual cycle
+postprocedural disorders of genitourinary system, not elsewhere classified
+congenital anemias, not elsewhere classified
+phakomatoses, not elsewhere classified
+neurofibromatosis (nonmalignant)
+dyspnea	Dyspnea	C2998	Dyspnea, CTCAE	C58185
+hypoxemia	Hypoxemia	C93047
+dysphagia	Dysphagia	C2980	Dysphagia, CTCAE	C57795
+intra-abdomen and pelvis swelling, mass and lump
+pain, not elsewhere classified
+enlarged lymph nodes
+unknown and causes of morbidity
+abnormality of white blood cells, not elsewhere classified
+abnormal findings in cerebrospine fluid
+abnormal findings in specimens from female genital organs
+abnormal findings on diagnostic imaging of central nervous system
+solitary lung nodule
+abnormal finding of lung field
+abnormal findings on diagnostic imaging body structures
+elevated cancer antigen 125 [ca 125]
+elevated prostate antigen [psa]
+infections following infusion, transfusion and therapeutic injection
+transport accident
+volunteer activity
+general examination and investigation of persons without complaint and reported diagnosis
+encounter for general adult medical examination without abnormal findings
+routine child health examination
+examination for normal comparison and control in clinical research program
+disease	Disease or Disorder	C2991
+special screening examination for neoplasms
+encounter for screening for malignant neoplasm of colon
+special screening examination for neoplasm of breast
+special screening examination
+encounter for pregnancy test, result unknown
+palliative care	Palliative Therapy	C15292
+blood donor	Blood Donor	C132448
+blood donor, whole blood
+bone marrow donor	Bone Marrow Donor	C153141
+cornea donor	Cornea Donor	C153142
+donor of organ or tissue
+persons encountering health services for procedures, not carried out
+problems related to education and literacy
+dependent relative needing care at home
+seeking and accepting physical, nutritional and chemical interventions known to be hazardous and harmful
+persons encountering health services for counseling and medical advice, not elsewhere classified
+tobacco abuse counseling
+tobacco use	Tobacco Use	C18059
+persons encountering health services in circumstances
+health supervision and care healthy infant and child
+healthy person accompanying sick person
+boarder in health-care facility
+persons encountering health services in circumstances
+long term (current) use of hormonal contraceptives
+family cancer history	Family Cancer History	C29878
+personal history malignant neoplasm of large intestine
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+personal history malignant neoplasm of kidney
+personal history of leukemia
+personal history of hodgkin lymphoma
+personal history of non-hodgkin lymphomas
+personal history malignant neoplasms of lymphoid, hematopoietic and related tissue
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+individual cancer history	Individual Cancer History	C18849
+personal history of in-situ neoplasm of breast
+personal history of unhealthy sleep-wake schedule
+personal risk factors
+transplanted organ and tissue status
+bone marrow transplant status
+Number of matched terms: 341
+Number of match results: 3591
