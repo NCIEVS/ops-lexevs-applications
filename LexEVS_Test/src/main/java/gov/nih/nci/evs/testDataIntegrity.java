@@ -3,7 +3,6 @@ package gov.nih.nci.evs;
 import gov.nih.nci.camod.util.EvsTreeUtil;
 import gov.nih.nci.camod.util.RemoteServerUtil;
 import gov.nih.nci.evs.security.SecurityToken;
-import gov.nih.nci.ncicb.cadsr.evs.EVSConcept;
 import gov.nih.nci.ncicb.cadsr.evs.EVSException;
 
 import java.io.BufferedReader;
@@ -63,11 +62,9 @@ import org.LexGrid.LexBIG.Utility.LBConstants.MatchAlgorithms;
 import org.LexGrid.LexBIG.caCore.interfaces.LexEVSApplicationService;
 import org.LexGrid.LexBIG.caCore.interfaces.LexEVSService;
 import org.LexGrid.codingSchemes.CodingScheme;
-import org.LexGrid.commonTypes.Properties;
 import org.LexGrid.commonTypes.Property;
 import org.LexGrid.commonTypes.PropertyQualifier;
 import org.LexGrid.commonTypes.Source;
-import org.LexGrid.commonTypes.Text;
 import org.LexGrid.concepts.Definition;
 import org.LexGrid.concepts.Entity;
 import org.LexGrid.concepts.Presentation;
@@ -2040,7 +2037,7 @@ e.printStackTrace();
 	    try {
 	    	System.out.println("Test findByPreferredName");
 	    	CodingSchemeVersionOrTag cvt = new CodingSchemeVersionOrTag();
-			cvt.setVersion("17.06d");
+			cvt.setVersion("19.09d");
 
 			CodedNodeSet cns = lbSvc.getNodeSet(vocabName, cvt, null);
 			cns = cns.restrictToMatchingDesignations(

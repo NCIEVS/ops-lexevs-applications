@@ -3,8 +3,8 @@ package gov.nih.nci.camod.util;
 //package gov.nih.nci.evs.reportwriter.utils;
 
 //import gov.nih.nci.system.applicationservice.EVSApplicationService;
-import gov.nih.nci.system.client.ApplicationServiceProvider;
 
+import gov.nih.nci.system.client.ApplicationServiceProvider;
 import java.util.Properties;
 
 import org.LexGrid.LexBIG.LexBIGService.LexBIGService;
@@ -92,7 +92,7 @@ public class RemoteServerUtil {
 			// "http://ncias-s692.nci.nih.gov:29080/lexevsapi60";
 
 			// **************Prod Servers**********************
-			 serviceURL = "https://lexevsapi6.nci.nih.gov/lexevsapi64";
+			 serviceURL = "https://lexevsapi65.nci.nih.gov/lexevsapi65";
 
 			// String serviceUrl =
 			// "http://ncias-p673.nci.nih.gov:29080/lexevsapi60";
@@ -158,7 +158,7 @@ public class RemoteServerUtil {
 	public static LexEVSApplicationService createLexEVSApplicationService() {
 		LexEVSApplicationService lbSvc = null;
 		String url =
-				 "http://lexevsapi60-stage.nci.nih.gov/lexevsapi60";
+				 "http://lexevsapi65-stage.nci.nih.gov/lexevsapi65";
 		try {
 			lbSvc =  (LexEVSApplicationService) ApplicationServiceProvider
 			        .getApplicationServiceFromUrl(url, _serviceInfo);

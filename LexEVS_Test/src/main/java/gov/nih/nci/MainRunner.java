@@ -23,7 +23,7 @@
  */
 package gov.nih.nci;
 
-import gov.nih.nci.cadsr.testCoreTypeQueries;
+//import gov.nih.nci.cadsr.testCoreTypeQueries;
 import gov.nih.nci.evs.testCTS2;
 import gov.nih.nci.evs.testDataIntegrity;
 //import gov.nih.nci.cadsr.testCoreTypeQueries;
@@ -69,9 +69,9 @@ public class MainRunner {
 		try {
 			if (doAdvanced) {
 
-				if (address.length() > 0) {
-					new testCoreTypeQueries(address);
-				}
+//				if (address.length() > 0) {
+//					new testCoreTypeQueries(address);
+//				}
 
 				if (address.length() > 0) {
 					new testSIW(address);

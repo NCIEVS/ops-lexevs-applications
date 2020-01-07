@@ -1,10 +1,6 @@
 package gov.nih.nci.evs.browser.utils;
 
 import gov.nih.nci.camod.util.RemoteServerUtil;
-import gov.nih.nci.evs.browser.utils.CodingSchemeDataUtils;
-import gov.nih.nci.evs.browser.utils.ResolvedConceptReferencesIteratorWrapper;
-import gov.nih.nci.evs.browser.utils.ValueSetSearchUtils;
-import gov.nih.nci.evs.browser.utils.StringUtils;
 
 import java.io.File;
 import java.io.PrintWriter;

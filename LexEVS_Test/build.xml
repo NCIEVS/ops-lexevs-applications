@@ -3,7 +3,7 @@
 
 	<description>Build script for Local Client</description>
 	
-    <property name="lib.dir" value="lib"/>
+    <property name="lib.dir" value="src/main/resources"/>
     <property name="build.dir" value="build"/>
 	<property name="classes.dir" value="classes"/>
     <property name="conf.dir" value="conf"/>

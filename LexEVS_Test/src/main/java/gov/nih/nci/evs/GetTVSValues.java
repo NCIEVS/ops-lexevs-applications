@@ -1,5 +1,6 @@
 package gov.nih.nci.evs;
 
+import gov.nih.nci.camod.util.RemoteServerUtil;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.List;
@@ -11,7 +12,7 @@ import org.LexGrid.commonTypes.Source;
 import org.LexGrid.valueSets.ValueSetDefinition;
 import org.lexgrid.valuesets.LexEVSValueSetDefinitionServices;
 
-import gov.nih.nci.camod.util.RemoteServerUtil;
+//import gov.nih.nci.camod.util.RemoteServerUtil;
 
 
 public class GetTVSValues {

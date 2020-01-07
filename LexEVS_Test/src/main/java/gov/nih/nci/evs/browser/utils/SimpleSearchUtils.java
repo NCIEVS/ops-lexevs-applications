@@ -49,12 +49,10 @@
 package gov.nih.nci.evs.browser.utils;
 
 import gov.nih.nci.camod.util.RemoteServerUtil;
-import gov.nih.nci.evs.browser.utils.ResolvedConceptReferencesIteratorWrapper;
 
 import java.util.*;
 
 import org.apache.log4j.*;
-import org.LexGrid.LexBIG.DataModel.Core.AbsoluteCodingSchemeVersionReference;
 import org.LexGrid.LexBIG.DataModel.Core.ResolvedConceptReference;
 import org.LexGrid.LexBIG.Exceptions.LBException;
 import org.LexGrid.LexBIG.Extensions.Generic.CodingSchemeReference;
@@ -67,18 +65,7 @@ import org.LexGrid.LexBIG.Utility.Iterators.ResolvedConceptReferencesIterator;
 import org.LexGrid.LexBIG.DataModel.Collections.*;
 import org.LexGrid.LexBIG.DataModel.Core.*;
 import org.LexGrid.LexBIG.LexBIGService.*;
-import org.LexGrid.LexBIG.LexBIGService.CodedNodeSet.*;
 import org.LexGrid.LexBIG.Utility.*;
-import org.LexGrid.concepts.*;
-import org.LexGrid.LexBIG.DataModel.InterfaceElements.*;
-import org.LexGrid.LexBIG.Utility.Iterators.*;
-import org.LexGrid.codingSchemes.*;
-import org.apache.log4j.*;
-import org.LexGrid.LexBIG.DataModel.Core.types.*;
-import org.LexGrid.naming.*;
-import org.LexGrid.LexBIG.Extensions.Generic.*;
-import org.apache.commons.codec.language.*;
-import org.LexGrid.LexBIG.Extensions.Generic.SearchExtension;
 
 
 public class SimpleSearchUtils {
